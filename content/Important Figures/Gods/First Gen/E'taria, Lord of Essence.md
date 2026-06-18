@@ -1,0 +1,1 @@
+The Firs lord and creator of Eidolon, her blood is the source of all organic life, and by shedding her original body she gave life to three children ([[E-dolion, Lord of Worlds]], [[Solin, Lord of Flame and Justice]] and [[Ferra, Lord of Death and Destruction]]). She is now the form of pure [[E'rtal]]. Eventually all souls return to her.

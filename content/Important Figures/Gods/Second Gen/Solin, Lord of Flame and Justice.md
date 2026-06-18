@@ -1,0 +1,2 @@
+Second son of [[E'taria, Lord of Essence]] and lord of the law and keeper of order,. He maintains the Sun of this world aptly named Solai. He is most followed by paladins donning Bronze armor that contains the fire and flames. 
+His descendants are: [[Photon, Lord of Advancement and Lightning]] and [[Genesis, Lord of Man]].

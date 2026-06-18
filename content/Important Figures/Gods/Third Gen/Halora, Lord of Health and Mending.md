@@ -1,0 +1,1 @@
+Second child a twin born of [[E-dolion, Lord of Worlds]], heals and make remedy (Twin to [[Lupis, Lord of Rats and Plague]])
