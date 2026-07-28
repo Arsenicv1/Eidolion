@@ -1,2 +1,0 @@
-
-Created by vampires experimenting with their blood, civilians, and remains of dragons. by forcing those parts together in unholy matrimony. a new race was made, the vampires did not anticipate that the will of the dragon would overwhelm the bloods control. instead they are now a rare part of society.

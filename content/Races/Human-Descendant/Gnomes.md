@@ -1,2 +1,0 @@
-
-The gnome is the consequence when an elf and dwarf have a child, incredibly rare as elves are far and few between. the gnome carries a strange affinity for innovation, some say that their birth are the intervention of a god.

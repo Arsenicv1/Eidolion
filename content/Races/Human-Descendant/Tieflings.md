@@ -1,2 +1,0 @@
-
-A race that was once human, but because of Ivor Kerr tricking [[Niva, Lord of Greed and Consumption]], all who share his blood are forever cursed to manifest a form that shows their crime and her wrath 

@@ -1,2 +1,0 @@
-
-Machines made by past humankind to imitate man and eventually became a sentient species. the art of making new war-forged has been lost so the best they can do is use old parts and trying to repair old ones. 
