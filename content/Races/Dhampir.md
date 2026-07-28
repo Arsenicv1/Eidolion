@@ -1,1 +1,0 @@
-People who are being influenced by some form of vampire only with partial effects.
