@@ -1,0 +1,2 @@
+
+Siegen are every where that has access to water, and are the most common race around and related to all Human Races. Genesis the father of man, made them from clay and they spread like fire, though the environment has reshaped and cracked the clay making them susceptible to mutate and make new races 

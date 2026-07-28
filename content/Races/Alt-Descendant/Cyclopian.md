@@ -1,0 +1,2 @@
+
+Cyclopian like the [[War-forged (aka Machin)]] or the [[Dragon-Born]]  are not naturally evolved but genetically stitched together by a long dead team of  Siegen and Gnomes using tools of rare and powerful elements of [[Mirid-Essence]], [[Vespite]], [[Vibrastone]], and a piece of the [[Emerald Heart]]. the Cyclopian live in the under-realm of Old Aurelia, they reach adolescence at the age of 23 and it is unknown if they die of old age, the oldest know age one has lived is about 5,000 years
