@@ -1,0 +1,1 @@
+The second descendant of [[Solin, Lord of flame and justice]], and the creator of man and pursuer of peace. along side of [[E-dolion, Lord of worlds]] maintains intelligent life as well as peace. he made the intelligent life with half of his heart and a clump of clay.

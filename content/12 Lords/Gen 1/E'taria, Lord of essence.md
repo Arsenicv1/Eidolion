@@ -1,0 +1,1 @@
+The First lord (god) and creator of Eidolon, her blood is the source of all organic life, and by shedding her original body she gave life to three children ([[E-dolion, Lord of worlds]], [[Solin, Lord of flame and justice]], and [[Ferra, Lord of Death and Destruction]]) now is the form of pure essence she is one with all life, eventually all souls return to her.

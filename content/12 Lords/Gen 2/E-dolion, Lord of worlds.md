@@ -1,0 +1,1 @@
+The first son of [[E'taria, Lord of essence]] and the lord that maintains the earth that all life relies on. prefers not to get into fights. he finds a love for all life, he cries for all mortals who make bad choices. he resembles boulders held together with vines forming an golem of sorts.

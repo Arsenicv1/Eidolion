@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"764cf6711ef42cb8","type":"file","file":"12 Lords/Gen 1/E'taria, Lord of essence.md","x":460,"y":-770,"width":400,"height":290},
+		{"id":"cbeba39c885ffff6","type":"file","file":"12 Lords/Gen 2/Solin, Lord of flame and justice.md","x":460,"y":-220,"width":400,"height":380},
+		{"id":"57396363cfb6b2dc","type":"file","file":"12 Lords/Gen 2/Ferra, Lord of Death and Destruction.md","x":960,"y":-220,"width":400,"height":380},
+		{"id":"5ff6f0d12f35158d","type":"file","file":"12 Lords/Gen 2/E-dolion, Lord of worlds.md","x":-40,"y":-220,"width":400,"height":260},
+		{"id":"d5aef81fb870778f","type":"file","file":"12 Lords/Gen 1/Adam, Lord of Cause and Space.md","x":-80,"y":-770,"width":440,"height":61},
+		{"id":"a591957518dab35b","type":"file","file":"12 Lords/Gen 3/Niva, Lord of Greed and Consumption.md","x":1560,"y":400,"width":400,"height":440},
+		{"id":"a84c559ed47b5668","type":"file","file":"12 Lords/Gen 3/Luthil, Lord of Combat and Shettar.md","x":1160,"y":400,"width":400,"height":480},
+		{"id":"8c2fa89eed9b9c67","type":"file","file":"12 Lords/Gen 3/Genesis, Lord of Man.md","x":660,"y":400,"width":400,"height":248},
+		{"id":"79dbd2fd49bab9e3","type":"file","file":"12 Lords/Gen 3/Photon, Lord of Advancement and lightning.md","x":260,"y":400,"width":400,"height":280},
+		{"id":"be63e56ec91ecdb6","type":"file","file":"12 Lords/Gen 3/Halora, lord of Health and Mending.md","x":-240,"y":400,"width":400,"height":220},
+		{"id":"9b775a8f9bec07c1","type":"file","file":"12 Lords/Gen 3/Lupis, Lord of Rats and Plague.md","x":-640,"y":400,"width":400,"height":200},
+		{"id":"8441c49049eefa60","type":"file","file":"12 Lords/Gen 1/Lilith, Lord of Time and Effect.md","x":960,"y":-770,"width":400,"height":61},
+		{"id":"072bb27869b971bc","type":"text","text":"First Gen","x":-80,"y":-920,"width":250,"height":60},
+		{"id":"2a1de3aa5725a6bd","type":"text","text":"Second Gen","x":-80,"y":-400,"width":250,"height":60},
+		{"id":"ec28eabcafe7dc4d","type":"text","text":"Third Gen","x":-80,"y":240,"width":250,"height":60},
+		{"id":"5902be3fa479eb10","type":"file","file":"Concepts/E'rtal or Magik'/E'rtal.md","x":460,"y":-1222,"width":400,"height":362}
+	],
+	"edges":[
+		{"id":"e9ac4728063cc928","fromNode":"764cf6711ef42cb8","fromSide":"bottom","toNode":"5ff6f0d12f35158d","toSide":"top"},
+		{"id":"8e70e3144d8642a6","fromNode":"764cf6711ef42cb8","fromSide":"bottom","toNode":"57396363cfb6b2dc","toSide":"top"},
+		{"id":"3f824c889d5f1517","fromNode":"764cf6711ef42cb8","fromSide":"bottom","toNode":"cbeba39c885ffff6","toSide":"top"},
+		{"id":"8943ff68f72dca43","fromNode":"57396363cfb6b2dc","fromSide":"bottom","toNode":"a591957518dab35b","toSide":"top"},
+		{"id":"a4a5fa4064cdab9b","fromNode":"57396363cfb6b2dc","fromSide":"bottom","toNode":"a84c559ed47b5668","toSide":"top"},
+		{"id":"ddb841255711c7d3","fromNode":"cbeba39c885ffff6","fromSide":"bottom","toNode":"8c2fa89eed9b9c67","toSide":"top"},
+		{"id":"5b65575b29d75b1f","fromNode":"cbeba39c885ffff6","fromSide":"bottom","toNode":"79dbd2fd49bab9e3","toSide":"top"},
+		{"id":"d61d34dbfde95590","fromNode":"5ff6f0d12f35158d","fromSide":"bottom","toNode":"be63e56ec91ecdb6","toSide":"top"},
+		{"id":"c92993702232eade","fromNode":"5ff6f0d12f35158d","fromSide":"bottom","toNode":"9b775a8f9bec07c1","toSide":"top"},
+		{"id":"038685c0406f71fe","fromNode":"764cf6711ef42cb8","fromSide":"top","toNode":"5902be3fa479eb10","toSide":"bottom"}
+	]
+}
