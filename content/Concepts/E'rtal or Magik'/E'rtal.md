@@ -1,0 +1,3 @@
+E'rtal (er-tol) is the essence of all power and life in Eidolon, when you die your e'rtal has run dry.
+
+all people of the world use E'rtal no matter if you are a swords man or a caster even royals use it, that is because it is life and life is made of it. when a spell is cast it taps into Ria (stores of E'rtal that are safe to use) to fuel the cast, this is the same for other energies Such as (ki, rage, lay on hands, etc.)
