@@ -1,1 +1,0 @@
-The oldest of [[Solin, Lord of Flame and Justice]]'s descendants and Father of advancement, he is the type to choose the side that lets him advance the fastest. his body is mad of brass and electricity with cogs, gears, and pistons.

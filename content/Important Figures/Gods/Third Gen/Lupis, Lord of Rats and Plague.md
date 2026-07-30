@@ -1,1 +1,0 @@
-Second child a twin born of [[E-dolion, Lord of Worlds]], loves rot and decay (Twin to [[Halora, Lord of Health and Mending]])

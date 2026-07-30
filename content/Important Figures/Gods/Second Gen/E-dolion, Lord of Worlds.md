@@ -1,2 +1,0 @@
-The first son of [[E'taria, Lord of Essence]] and the lord that maintains the earth that all life relies on. Prefers not to get into fights. He finds a love for all life, he cries for all mortals who make bad decisions. He resembles boulders held together with vines forming a golem of sorts.
-His descendants are: [[Lupis, Lord of Rats and Plague]] and [[Halora, Lord of Health and Mending]].
