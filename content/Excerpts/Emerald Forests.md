@@ -1,0 +1,1 @@
+"The forests of the Emerald Coast are known as the least mapped or even explored place in the world, it has been attempted but a map from a year prior is no longer correct as it grows and changes constantly. not even the wildlife is known to be the same between 2 visits. - Excerpt from the lost mysteries of  the Emerald forest Vol.4
