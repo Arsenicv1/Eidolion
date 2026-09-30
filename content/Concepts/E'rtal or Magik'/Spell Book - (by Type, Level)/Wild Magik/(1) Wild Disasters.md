@@ -1,0 +1,30 @@
+**Disaster**
+
+##### Wild Magik Surge
+| 1d100 | Effect                                                                                                                                                                                                     |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01–04 | you are randomly teleported with your party into a random dungeon on one of the planes you will be returned if you finish the dungeon or wait 2 weeks.                                                     |
+| 05–08 | For the rest of the day, a voice in your head announces the time every half-hour                                                                                                                           |
+| 09–12 | 1d4 creatures within 100ft drop all equipped items on the ground                                                                                                                                           |
+| 13–16 | Until the end of your next turn, bubbles of acid fill the air within 10 feet of you, and any creature which moves within this area takes 1d6 points of acid damage                                         |
+| 17–20 | You suddenly forget the names of your companions                                                                                                                                                           |
+| 21–24 | Bolts of lightning flash out from you and strike each creature within 10 feet, dealing 5d8 points of lightning damage                                                                                      |
+| 25–28 | You vanish in a silvery mist, and teleport to a randomly chosen unoccupied space up to 800 feet away                                                                                                       |
+| 29–32 | You are blinded until the end of your next turn                                                                                                                                                            |
+| 33–36 | for the next turn every time you attack you do not roll the damage instead deal the lowest you could have rolled.                                                                                          |
+| 37–40 | a random member of the party is cloned, both the original and the clone are hostile toward each other and can't do anything till the other is dead.                                                        |
+| 41–44 | An illusion of your deepest fears appears in front of you, and you take 2d10 points of psychic damage and are frightened until the end of your next turn                                                   |
+| 45–48 | You explode dealing (Con mod) d8 force damage, your soul transforms the nearest of your race into you, you must go to where you died to reclaim your items.                                                |
+| 49–52 | a random creature within 40ft becomes a Were-gnome, when a full-moon is out your race is Gnome until the moon falls, if you are already a gnome you become an elf during the full moon                     |
+| 53–56 | An illusory of you appears in an unoccupied space within 10 feet, and speaks of the end until it disappears 5 minutes later                                                                                |
+| 57–60 | For the next minute, your size increases by one category                                                                                                                                                   |
+| 61–64 | you summon a [Tar-rasque](https://www.dndbeyond.com/sources/dnd/hgtmh2/appendix-c-creatures#TarrasqueHatchlingStatBlock) Hatchling 60ft. from you it is agressive to all creatures.                        |
+| 65–68 | your race is randomly changed for the next week, after it will return to normal, at either point everyone believes that you have always been that way                                                      |
+| 69–72 | You have become the love interest of a powerful creature roll a d8 on a: 1 an Adult Dragon, 2 an Beholder, 3 a Mummy Lord, 4 a Mindflayer, 5 an Arch-Hag, 6 a Pit Fiend, 7 a powerful vampire, 8 a djinni. |
+| 73–76 | for the next hour you believe that every creature is Volo Geddarm, you must make a dc 17 wisdom save to figure out if a Volo is an enemy or Ally                                                           |
+| 77–80 | A random item in your or a companions inventory is now a mimic.                                                                                                                                            |
+| 81–84 | you suddenly become incredibly convinced that you should hire kobolds to make an item you want even if that isn't possible.                                                                                |
+| 85–88 | you summon a familiar that is eternally loyal to the party even if it would put them in danger.                                                                                                            |
+| 89–92 | a random creature on the planes will become immortal and search till they find you if they touch you, you die when you see them you are aware of this fact.                                                |
+| 93–96 | you must roll a d6 -1 you are now that level of drunk on the [drunkenness](https://www.dndbeyond.com/sources/dnd/hgtmh1/the-loot-tavern#DrunkennessandEffects) table                                       |
+| 97–00 | for the next 24 hours you and all surrounding creatures switch body's (and stat blocks), you will switch back to your body as long as it is still alive.                                                   |
