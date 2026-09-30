@@ -1,0 +1,1 @@
+The more followed by the masses of Solin worshipers using grand chapels and large prayers, this religion believes that fire is holy and to burn away sin. they use a lot of fire related innuendos. in the capital church they have a great furnace that is used for funerals of the powerful and beloved followers.
